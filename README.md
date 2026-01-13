@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 
 
-<!--
-**ishikhatomar/ishikhatomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shikha Tomar, an aspiring software engineer. 
+I am from New Delhi, India.
 
-Here are some ideas to get you started:
+Email: shikha03tomar@gmail.com  
+LeetCode: https://leetcode.com/u/shikha03tomar/  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+- Data Structures & Algorithms  
+- Problem Solving & Logical Thinking  
+- Backend & Web Development  
+- Version Control (Git/GitHub)  
+- Debugging & Code Optimization  
+
+
