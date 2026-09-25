@@ -1,8 +1,5 @@
 # Hi there 👋 
 
-I'm Shikha Tomar, an aspiring software engineer. 
-I am from New Delhi, India.
-
 Email: shikha03tomar@gmail.com  
 LeetCode: https://leetcode.com/u/shikha03tomar/  
 
